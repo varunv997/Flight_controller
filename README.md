@@ -1,2 +1,2 @@
 # Flight_controller
-An arduino base flight controller for quad copters
+An arduino based flight controller for quad copters
